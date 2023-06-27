@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in Conversational AI for Digital Marketing
 
 In this chapter, we will introduce ChatGPT and explore the advantages of using ChatGPT in conversational AI for digital marketing.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an advanced language model based on OpenAI's GPT architecture. It uses deep learning to generate human-like responses to text-based inputs, making it ideal for use in conversational AI applications.
-
 Advantages of Using ChatGPT in Conversational AI for Digital Marketing
 ----------------------------------------------------------------------
 
