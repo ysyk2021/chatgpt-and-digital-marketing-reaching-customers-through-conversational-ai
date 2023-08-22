@@ -1,5 +1,4 @@
-Types of Digital Marketing Techniques Used Today
-============================================================================================
+
 
 Digital marketing is an essential component of modern business strategies, providing companies with a way to reach customers through various online channels. In this chapter, we will explore the different types of digital marketing techniques used today.
 

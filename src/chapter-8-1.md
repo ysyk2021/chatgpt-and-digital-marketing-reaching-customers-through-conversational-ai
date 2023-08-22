@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have explored the use of ChatGPT and conversational AI in digital marketing. Here is a summary of the key points:
 

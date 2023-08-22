@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the use of conversational AI, specifically ChatGPT, in digital marketing. We have discussed the advantages of using chatbots and AI in digital marketing, as well as the limitations and challenges associated with this strategy.
 
