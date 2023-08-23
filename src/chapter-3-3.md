@@ -1,5 +1,4 @@
 
-
 Chatbots and AI are becoming increasingly popular in digital marketing, providing companies with a way to reach customers through conversational AI. In this chapter, we will explore the different types of chatbots used in digital marketing.
 
 Rule-Based Chatbots

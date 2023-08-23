@@ -1,5 +1,4 @@
 
-
 Digital marketing refers to the use of digital channels to promote products or services. It involves utilizing various techniques to reach and engage with customers through online platforms such as search engines, social media, email, websites, and mobile apps.
 
 The Components of Digital Marketing
