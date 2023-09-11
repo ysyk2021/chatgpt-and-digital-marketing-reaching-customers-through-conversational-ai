@@ -1,5 +1,4 @@
-Chapter 8: Case Studies on ChatGPT-Based Conversational AI for Digital Marketing
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that demonstrate the effectiveness and impact of ChatGPT-based conversational AI in the realm of digital marketing. These case studies highlight the successful implementation of ChatGPT in various marketing scenarios and shed light on its ability to engage customers, drive conversions, and enhance overall marketing strategies.
 

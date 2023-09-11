@@ -1,5 +1,4 @@
-Chapter 1: Overview of the Book
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "ChatGPT and Digital Marketing: Reaching Customers through Conversational AI." In this chapter, we will provide an overview of the book and give you a glimpse into the exciting world of conversational AI for digital marketing.
 

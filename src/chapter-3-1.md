@@ -1,5 +1,4 @@
-Chapter 2: An Overview of Chatbots and AI in Digital Marketing
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of chatbots and AI in digital marketing. Chatbots are software applications that simulate human-like conversations with users via text or voice interfaces. These chatbots leverage AI and machine learning algorithms to understand natural language, interpret queries, and generate relevant responses. Let's delve into the role of chatbots and AI in digital marketing.
 

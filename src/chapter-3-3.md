@@ -1,5 +1,4 @@
-Chapter 2: Types of Chatbots Used in Digital Marketing
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of chatbots used in digital marketing. Chatbots, powered by advanced AI technologies like ChatGPT, have become an integral part of marketing strategies. They enable businesses to engage with customers in real-time, provide personalized experiences, and drive conversions. Let's dive into the various types of chatbots commonly used in digital marketing.
 

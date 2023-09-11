@@ -1,5 +1,4 @@
-Chapter 8: How ChatGPT Works in Conversational AI for Digital Marketing
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, a powerful language model, works in conversational AI for digital marketing. We will dive into the underlying technology and highlight the key components that make ChatGPT an effective tool for engaging with customers and driving marketing success.
 

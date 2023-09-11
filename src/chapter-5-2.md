@@ -1,5 +1,4 @@
-Chapter 8: Personalization Techniques Used in ChatGPT for Digital Marketing
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various personalization techniques used in ChatGPT for digital marketing. These techniques enable businesses to deliver highly personalized and tailored conversational experiences to their customers, resulting in increased engagement and improved marketing outcomes.
 

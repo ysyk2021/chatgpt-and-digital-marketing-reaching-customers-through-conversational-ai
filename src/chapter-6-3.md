@@ -1,5 +1,4 @@
-Chapter 2: Training ChatGPT and Managing Conversations for Conversational AI in Digital Marketing
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of training ChatGPT and managing conversations for conversational AI in the context of digital marketing. Building on the foundation of ChatGPT, we will explore techniques to optimize performance, ensure quality interactions, and drive effective marketing outcomes.
 

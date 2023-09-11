@@ -1,5 +1,4 @@
-Chapter 6: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key features of ChatGPT that make it a valuable tool for reaching customers through conversational AI in digital marketing. ChatGPT incorporates several capabilities that enhance customer engagement, improve marketing strategies, and drive business growth.
 

@@ -1,5 +1,4 @@
-Chapter 5: How ChatGPT Uses Data to Improve Conversational AI for Digital Marketing
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT utilizes data to improve and optimize conversational AI for digital marketing purposes. We will delve into the different types of data used, the challenges involved, and the benefits of leveraging data-driven approaches with ChatGPT.
 

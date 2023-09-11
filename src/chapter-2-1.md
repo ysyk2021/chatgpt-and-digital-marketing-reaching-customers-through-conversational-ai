@@ -1,5 +1,4 @@
-Chapter 1: What is Digital Marketing?
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Digital marketing is a dynamic and ever-evolving field that encompasses a range of strategies and techniques aimed at promoting products, services, or brands through digital channels. In this chapter, we will delve into the core concepts and components that define digital marketing.
 

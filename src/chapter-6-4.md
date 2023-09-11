@@ -1,5 +1,4 @@
-Chapter 7: Evaluating ChatGPT's Performance and Effectiveness in Conversational AI for Digital Marketing
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will assess the performance and effectiveness of ChatGPT in conversational AI for digital marketing. Evaluating ChatGPT's capabilities is crucial to understand its impact on customer engagement, marketing strategies, and overall business objectives.
 

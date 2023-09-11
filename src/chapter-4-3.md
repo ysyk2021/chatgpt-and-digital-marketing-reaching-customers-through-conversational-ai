@@ -1,5 +1,4 @@
-Chapter 4: Advantages of Using ChatGPT in Conversational AI for Digital Marketing
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages of using ChatGPT in conversational AI for digital marketing. ChatGPT offers unique capabilities that can significantly enhance customer engagement, streamline marketing processes, and drive business growth.
 

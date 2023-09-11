@@ -1,5 +1,4 @@
-Chapter 3: Planning and Designing ChatGPT for Conversational AI in Digital Marketing
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the planning and design aspects of using ChatGPT for conversational AI in the context of digital marketing. By following a structured approach to planning and designing, organizations can maximize the effectiveness of their conversational AI strategies and achieve their marketing goals.
 
